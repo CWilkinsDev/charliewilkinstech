@@ -57,7 +57,7 @@ footerTemplate.innerHTML = `
   <footer>
     <input type="text" id="randomText" size="45" disabled>
     <div class="rhs">
-      <input type="text" id="hitCounter" size="20" disabled>
+      <input type="text" id="hitCounter" size="25" disabled>
       <ul class="social-row" id="socialRow" hidden="true">
         <li><a href="https://github.com/CWilkinsDev"><i class="fab fa-github"></i></a></li>
         <li><a href="https://www.linkedin.com/in/charlie-wilkins-4b2680195/"><i class="fab fa-linkedin"></i></a></li>
